@@ -1,11 +1,15 @@
 {
     "posts": [
-      {
-        "id": 1,
-        "title": "new name"
-      }
+        {
+            "id": 1,
+            "title": "new name"
+        },
+        {
+            "id": 2,
+            "title": "newer name"
+        }
     ],
     "profile": {
-      "name": "Teo"
+        "name": "Teo"
     }
-  }
+}
